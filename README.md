@@ -1,5 +1,5 @@
 # 👋 Hola, soy Hugo Ruben Diaz Cruz
-Backend Developer apasionado por el desarrollo de aplicaciones utilizando Java, Spring Boot y automatización con Docker y Bash.
+Desarrollador backend apasionado por el desarrollo de aplicaciones utilizando Java y el ecosistema de Spring. También manejo tecnologías como Php/Laravel, Python/Flask, Docker, Kubernetes, Jenkins, SQL, entre otas.
 
 ## 💻 Tecnologías
 - **Lenguajes:** Java, Php, Python, SQL.
